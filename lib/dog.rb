@@ -8,7 +8,10 @@
 class Dog 
   
   @all = []
-
+  
+  def initialize(dog_name)
+    
+  end 
   
   def self.clear_all 
     @all.clear_all
