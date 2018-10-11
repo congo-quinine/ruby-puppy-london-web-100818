@@ -5,6 +5,15 @@
 #     end
 #   end
 
+class Dog 
+  @all = []
+  
+  def self.clear_all 
+    
+    self.clear_all
+  end  
+end  
+
 #   describe ".clear_all" do
 #     it "is a class method that empties the @@all array of all existing dogs" do
 #       Dog.clear_all
