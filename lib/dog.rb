@@ -7,10 +7,10 @@
 
 class Dog 
   
-  @all = []
+  @@all = []
   
   def initialize(dog_name)
-    @all << self
+    @@all << self
   end 
   
   def self.clear_all 
