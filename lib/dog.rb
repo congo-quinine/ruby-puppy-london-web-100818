@@ -6,6 +6,7 @@
 #   end
 
 class Dog 
+  
   @all = []
 
   
