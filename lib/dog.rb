@@ -12,6 +12,7 @@ class Dog
     
     self.clear_all
   end  
+  
 end  
 
 #   describe ".clear_all" do
